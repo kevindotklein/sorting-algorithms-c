@@ -15,5 +15,7 @@ int main(void){
 }
 
 void radix_sort(int *arr, int size){
-
+  int max = getMax(array, size);
+  for (int place = 1; max / place > 0; place *= 10)
+    countingSort(array, size, place);
 }
