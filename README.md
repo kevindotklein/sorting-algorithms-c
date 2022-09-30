@@ -1,5 +1,5 @@
 <p>requirements: c compiler (build.sh is using gcc), permission to execute build.sh</p>
-worst time complexity:<br>
+avarage time complexity:<br>
 - bubble sort: O(n^2)<br>
 - selection sort: O(n^2)<br>
 - insertion sort: O(n^2)<br>
