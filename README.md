@@ -4,7 +4,7 @@ avarage time complexity:<br>
 - selection sort: O(n^2)<br>
 - insertion sort: O(n^2)<br>
 - merge sort: O(n log(n))<br>
-- quick sort: O(n^2)<br>
+- quick sort: O(n log(n))<br>
 - heap sort: O(n log(n))<br>
 - counting sort: O(n+k)<br>
 - radix sort: O(d(n+b))<br>
